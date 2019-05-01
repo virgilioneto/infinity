@@ -1,6 +1,6 @@
 {
   "name": "@virgilioneto/infinity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Infinity Web Framework",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "mongoose": "^5.5.5"
+    "@virgilioneto/mongoose-wrapper": "0.0.2"
   }
 }
