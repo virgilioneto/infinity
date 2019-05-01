@@ -1,6 +1,6 @@
 {
   "name": "@virgilioneto/infinity",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Infinity Web Framework",
   "main": "index.js",
   "scripts": {
